@@ -12,8 +12,14 @@ class Alumnos extends My_Controller {
 	public function getAlumno(){
 		$this->load->model('m_alumnos');
 
-		$db['alumnoNombre'] = $this->m_alumnos->getAlumno();
+		$db['alumnoNombre'] = $this->m_alumnos->getAlumnoNombre();
 
-		$this->load->view('alumnos/alumno.php', $db);
+		//$this->load->view('alumnos/alumno.php', $db);
+		$this->setView('alumnos/alumno.php', $db);
+	}
+
+
+	public function verTabla(){
+		$this->setView('alumnos/table');
 	}
 }
