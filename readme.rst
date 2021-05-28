@@ -17,3 +17,14 @@ Resources
 *********
 
 -  Framework codeigniter.com
+
+
+--------------------------
+ABALOS Víctor Gabriel - Libros
+FERNÁNDEZ Jeremías Leandro - Usuarios
+GARAY CARRIZO Matías Ezequiel -	Editoriales
+GONZALEZ Macarena Yael - Alumnos
+JOFRÉ COLQUE Patricia Daiana - Prestamos
+CÁCERES	Daniel Francisco - Devoluciones
+ROMERO TUPA	Ismael Francisco - Roles de usuarios
+MAYORGA	Daniel Exequiel - Comentarios 
